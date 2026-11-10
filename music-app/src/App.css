@@ -1,0 +1,28 @@
+* {
+  background-color: #151414;
+}
+
+
+
+.App-song {
+  width: 20%;
+  height: 150px;
+  padding-left: 10px;
+  display: flex;
+  flex-direction: column;
+  color: #fff;
+  margin-left: 20px;
+  border: 1px solid #fff;
+  border-radius: 10px;
+  border-color: #0278af;
+  margin-bottom: 10px;
+}
+
+.App-song h2 {
+  color: #0278af;
+  margin-bottom: 5px;
+}
+
+.App-song p {
+  margin-bottom: 5px;
+}
